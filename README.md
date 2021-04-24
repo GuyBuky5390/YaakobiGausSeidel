@@ -1,2 +1,2 @@
 # YaakobiGausSeidel
-assignment 3 in analiza numerit - yaakobi and gaus seidel
+for the main function - go to main()
